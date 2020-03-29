@@ -1,0 +1,6 @@
+Tokenization:
+https://www.geeksforgeeks.org/nlp-how-tokenizing-text-sentence-words-works/
+https://www.youtube.com/watch?v=6ZVf1jnEKGI&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=1
+Stemming:
+https://www.youtube.com/watch?v=yGKTphqxR9Q&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&index=3
+https://www.youtube.com/watch?v=1OMmbtVmmbg&list=PLZoTAELRMXVMdJ5sqbCK2LiM0HhQVWNzm&index=2
